@@ -35,3 +35,5 @@ for i in range(1, 11):
     total = total + i
 
 print("Sum:", total)
+
+print("Hello world")
